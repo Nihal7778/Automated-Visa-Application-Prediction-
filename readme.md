@@ -3,7 +3,8 @@
 An end-to-end machine learning project that predicts whether a US visa application will be approved or denied. The system follows a modular architecture covering data ingestion, validation, transformation, model training, evaluation, and deployment  with a web interface for real time predictions.
 
 ## Architecture
-<img src ="assets/Visa App Pred.png> width=900 <content = Visa Architecture>"
+<img src ="assets/Visa App Pred.png  width="900" <alt="Visa Architecture">
+
 
 ## Table of Contents
 
